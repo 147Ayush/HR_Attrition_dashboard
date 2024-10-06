@@ -1,6 +1,6 @@
 # HR Analyst Dashboard
 
-![HR Analyst Dashboard](Screenshot 2024-10-06 230324.png)
+![HR Analyst Dashboard](/Screenshot_2024-10-06_230324.png)
 
 ## Overview
 
